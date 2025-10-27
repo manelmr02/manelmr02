@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manel</h1>
-<h3 align="center">I'm a former software developer student, I did 3 courses in University of Oviedo and then I completed a higher degree in web application development, right now I'm doing another higher degree in multiplatform aplication development.</h3>
+<h3 align="center">I'm a former software developer student, I did 3 years at University of Oviedo and then I completed a higher degree in web application development, right now I'm doing another higher degree in multiplatform aplication development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manelmr02&label=Profile%20views&color=0e75b6&style=flat" alt="manelmr02" /> </p>
 
