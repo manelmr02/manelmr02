@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular and more staff while finishing DAM**
 
-- 👨‍💻 Some of my projects are available at [manelmr02.github.io](manelmr02.github.io)
+- 👨‍💻 Some of my projects are available at [manelmr02.github.io](https://manelmr02.github.io/)
 
 - 📫 How to reach me **manelmoralesrivera@gmail.com**
 
