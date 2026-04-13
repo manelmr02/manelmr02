@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manel</h1>
-<h3 align="center">I'm a former software developer student, I did 3 years at University of Oviedo and then I completed a higher degree in web application development, right now I'm doing another higher degree in multiplatform aplication development.</h3>
+<h3 align="center">I'm a former software developer student, I did 3 years at University of Oviedo and then I completed a higher degree in web application development, right now I'm doing another higher degree in multiplatform aplication development. Right now I´m learning Salesforce while finishing my degree</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manelmr02&label=Profile%20views&color=0e75b6&style=flat" alt="manelmr02" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manelmr_" target="blank"><img src="https://img.shields.io/twitter/follow/manelmr_?logo=twitter&style=for-the-badge" alt="manelmr_" /></a> </p>
 
-- 🔭 I’m currently working on **finishing my degree**
+- 🔭 I’m currently working on **Phoenix Contact**
 
-- 🌱 I’m currently learning **Angular and more staff while finishing DAM**
+- 🌱 I’m currently learning **Salesforce**
 
 - 👨‍💻 Some of my projects are available at [manelmr02.github.io](https://manelmr02.github.io/)
 
